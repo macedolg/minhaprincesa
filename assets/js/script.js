@@ -46,3 +46,18 @@ window.addEventListener("scroll", function () {
     backTopBtn.classList.remove("active");
   }
 });
+
+const showAlert = () => {
+  let message = alert("Pergunta é o CARALHO. Eu sou casada PORRA!").
+  alert(message);
+}
+
+const termsAlert = () => {
+  let message = alert("O termo é você me amar pra sempre e casar comigo, te amo minha princesa, nós juntos para todo o sempre.").
+  alert(message);
+}
+
+const policyAlert = () => {
+  let message = alert("A política de privicidade é nós dois pelados e o resto você ja sabe minha gatinha").
+  alert(message);
+}
